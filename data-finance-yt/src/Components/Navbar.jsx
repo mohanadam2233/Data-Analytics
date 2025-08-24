@@ -11,7 +11,7 @@ function Navbar() {
 
     return (
         <div className=" flex justify-around items-center h-24 px-4 max-[1240px]: max-auto text-white">
-            <h1 className='W-full text-3xl font-bold text-[#00df9a]'>Data-Analytics.</h1>
+            <h1 className='W-full text-3xl font-bold text-[#00df9a]'>React.</h1>
             <ul className="hidden md:flex">
                 <li className='p-4' >Home</li>
                 <li className='p-4' >Companany</li>
